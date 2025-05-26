@@ -46,7 +46,7 @@
 <h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francodorrego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://www.workana.com/freelancer/4e41975cd2ebe7732872f9e62127e954" target="blank"><img align="center" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5b27e4e540fc200001db5ca7/0x0.png" height="30" width="40" /></a>
+<a href="https://www.workana.com/freelancer/4e41975cd2ebe7732872f9e62127e954" target="blank"><img align="center" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5b27e4e540fc200001db5ca7/0x0.png" height="40" width="40" /></a>
 </p>
 <br>
 
