@@ -35,7 +35,7 @@ I have studied and continue studying different areas of programming, technology,
 
 </div>
 
-
+<br><br>
 
 ## :slightly_smiling_face: About Me 
 
