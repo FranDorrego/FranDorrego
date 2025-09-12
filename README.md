@@ -3,7 +3,7 @@
 <h3 align="center">Entrepreneur & Self-taught Developer</h3>
 <p align="center">I'm a young self-taught entrepreneur with a lot of curiosity 😁.
 
-👉 I'm a Full Stack Web and Java Developer. I have strong knowledge in technologies like React, NEXT, Django, and Flet. I frequently work with Git, GitHub, Vercel, PythonAnywhere, Binance, and Figma. I also have a solid understanding of Python and C++.
+👉 I'm a Full Stack Web Developer. I have strong knowledge in technologies like React, NEXT, Django, FastAPI. I frequently work with Git, GitHub, Vercel, PythonAnywhere, and Figma. I also have a solid understanding of Python and JavaScript.
 
 ❤️ For me, nothing is more rewarding than facing a seemingly insurmountable challenge, dedicating days or even weeks of hard work, and then looking back at the result with pride. This experience keeps me motivated to seek out new projects. 🛠️</p>
 
